@@ -1,0 +1,6 @@
+USERNAME, TIMESTAMP, ACTION, RESOURCE
+jtking, 01/18/2018 01:22:21PM, view, prescription information
+mbbrown, 01/18/2018 01:23:47PM, create, immunization order
+ssoulcrusher, 01/18/2018 01:22:01PM, delete, prescription information
+jdschmidt, 01/18/2018 01:24:21PM, view, prescription information
+jtking, 01/18/2018 12:58:14PM, delete, demographics information

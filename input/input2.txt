@@ -1,0 +1,5 @@
+USERNAME, TIMESTAMP, ACTION, RESOURCE
+jtking, 01/18/2018 01:22:21PM, view, prescription information
+jtking, 01/18/2018 01:20:21PM, view, prescription information
+jtking, 01/18/2018 01:23:21PM, view, prescription information
+jtking, 01/18/2018 12:22:21PM, view, prescription information
